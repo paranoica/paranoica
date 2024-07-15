@@ -6,7 +6,7 @@
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin __18__ Jahre alt. Geboren in __Minsk__ und ich bin ein facettenreicher __Entwickler__.
 
 > [!IMPORTANT]
-> Full-stack web developer -> HTML CSS JS PYTHON PHP CSS JAVA RUBY SQL
+> Full-stack web developer -> HTML CSS JS PYTHON PHP CSS JAVA RUBY SQL<br/><br/>
 > C/C#/C++ GO 1C
 
 ## 💬 Socials
