@@ -18,7 +18,9 @@
       ❥ CSS (Bootstrap, W3.CSS, Sass, Less)<br/>
       ❥ SQL (mySQl, PostgreSQl)<br/>
       ❥ noSQL (MongoDB, Redis, Cassandra)<br/>
+      ❥ HTTP Protocols<br/>
       ❥ Typescript<br/>
+      ❥ JSON & XML<br/>
       ❥ Ruby
     </dd>
   </dl>
@@ -44,14 +46,25 @@
   </dl>
 </details>
 <details>
-  <summary>Mobile developer</summary>
+  <summary>IOS & Android developer</summary>
   <dl>
     <dd>
-      ❥ IOS<br/>
-        <dd>
-          ❥ IOS<br/>
-          ❥ Perl
-        </dd>
+      ❥ Objective-C<br/>
+      ❥ Swift<br/>
+      ❥ Kotlin<br/>
+      ❥ API's, SDK's, etc.<br/>
+      ❥ Unity 3D
+    </dd>
+  </dl>
+</details>
+<details>
+  <summary>Designer (UI/UX, etc.)</summary>
+  <dl>
+    <dd>
+      ❥ Photoshop<br/>
+      ❥ Figma<br/>
+      ❥ Cinema 4D<br/>
+      ❥ Blender<br/>
     </dd>
   </dl>
 </details>
