@@ -76,7 +76,7 @@
 ## 🔮 Projects
 ![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34) \
 \
-[![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@5c3ab2ae-85cd-4879-8b50-f38f7149dd2d)\
+[![wakatime](https://wakatime.com/badge/user/1bf0dcc1-e378-452a-a28c-17476cdb8b37.svg)](https://wakatime.com/@1bf0dcc1-e378-452a-a28c-17476cdb8b37)
 [![wakatime](https://wakatime.com/share/@paranoica/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)
 
 #### Lua:
