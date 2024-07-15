@@ -69,6 +69,7 @@
 </details>
 
 ## [~] socials
+<img alt="Static Badge" src="https://img.shields.io/badge/Steam-123?cacheSeconds=https%3A%2F%2Fgithub.com%2Felleqt">
 ![Static Badge](https://img.shields.io/badge/TG-123?style=for-the-badge&logo=Telegram&color=%23C6C6C6&link=https%3A%2F%2Ft.me%2Fearlyshot)<br/>
 ![Static Badge](https://img.shields.io/badge/Steam-123?style=for-the-badge&logo=Steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fpermacrisis%2F)<br/>
 ![Static Badge](https://img.shields.io/badge/Youtube-123?style=for-the-badge&logo=Youtube&color=%23E34F4F&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)<br/>
