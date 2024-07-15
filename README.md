@@ -12,13 +12,12 @@
     <dd>
       ❥ SSR, CSR, SSG, SPA<br/>
       ❥ HTML5, CSS, JS & Typescript<br/>
-      ❥ Python<br/>
-      ❥ PHP<br/>
-      ❥ CSS<br/>
+      ❥ Python (FastAPI, Flask, SQLAlchemy)<br/>
+      ❥ PHP (Laravel, Composer)<br/>
+      ❥ CSS (Bootstrap, W3.CSS, Sass, Less)<br/>
+      ❥ SQL (mySQl, PostgreSQl)<br/>
+      ❥ noSQL (MongoDB, Redis, Cassandra)<br/>
       ❥ Ruby<br/>
-      ❥ SQL<br/>
-      > [!NOTE]
-      > Useful information that users should know, even when skimming content.
     </dd>
   </dl>
 </details>
