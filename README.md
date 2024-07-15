@@ -9,6 +9,9 @@
 <details>
   <summary>Full-stack web developer</summary>
   <dl>
+    <ul>
+      <li>SSR, CsdfsdfdfSR, SSG, SPA</li>
+    </ul>
     <dd>• SSR, CSR, SSG, SPA</dd>
   </dl>
 </details>
