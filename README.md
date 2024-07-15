@@ -19,24 +19,27 @@
       ❥ SQL (mySQl, PostgreSQl)<br/>
       ❥ noSQL (MongoDB, Redis, Cassandra)<br/>
       ❥ Typescript<br/>
-      ❥ Ruby<br/>
+      ❥ Ruby
     </dd>
   </dl>
 </details>
 <details>
-  <summary>Full-stack web developer</summary>
+  <summary>General developer</summary>
   <dl>
     <dd>
-      ❥ SSR, CSR, SSG, SPA<br/>
-      ❥ HTML5<br/>
-      ❥ JS (jQuery, Node, React, Storybook, Vue, Pinia, Angular, Ember, Redux, etc.)<br/>
-      ❥ Python (FastAPI, Flask, SQLAlchemy)<br/>
-      ❥ PHP (Laravel, Composer)<br/>
-      ❥ CSS (Bootstrap, W3.CSS, Sass, Less)<br/>
-      ❥ SQL (mySQl, PostgreSQl)<br/>
-      ❥ noSQL (MongoDB, Redis, Cassandra)<br/>
-      ❥ Typescript<br/>
-      ❥ Ruby<br/>
+      ❥ C/C#/C++ (.NET, Windows API, etc.)<br/>
+      ❥ Assembler<br/>
+      ❥ GO (Docker, etc.)<br/>
+      ❥ 1C
+    </dd>
+  </dl>
+</details>
+<details>
+  <summary>Script developer</summary>
+  <dl>
+    <dd>
+      ❥ Lua Senior<br/>
+      ❥ Perl
     </dd>
   </dl>
 </details>
