@@ -69,7 +69,8 @@
   </dl>
 </details>
 
-## 💬 Socials
+## [~] socials
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam account](https://steamcommunity.com/id/edgesubtle/)
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/onkOahh.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
