@@ -4,7 +4,9 @@
 [BY] Вiтаю! Я – __paranoica__ і мне 18 гадоў. Нарадзіўся ў Мінску і з'яўляюся шматгранным распрацоўшчыкам.<br/><br/>
 [EN] Welcome! I'm __paranoica__ and I'm 18 years old. Born in Minsk and I'm a multifaceted developer.<br/><br/>
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin 18 Jahre alt. Geboren in Minsk und ich bin ein facettenreicher Entwickler.
-{sdfsdf}
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 Developer, UI/UX Designer, Project Manager @ Neverlose
 
