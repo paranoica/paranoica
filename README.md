@@ -74,10 +74,10 @@
 ![Static Badge](https://img.shields.io/badge/Youtube-123?style=for-the-badge&logo=Youtube&color=%23E34F4F&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)<br/>
 
 ## 🔮 Projects
-![counter](https://moe-counter.glitch.me/get/@tickcount?theme=asoul) \
+![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34) \
 \
 [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@5c3ab2ae-85cd-4879-8b50-f38f7149dd2d)\
-[![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@tickcount)
+[![wakatime](https://wakatime.com/share/@paranoica/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)
 
 #### Lua:
 - [tickount/voice-listener.lua](https://github.com/tickcount/voice-listener.lua), a cheat revealing library for neverlose cs:go.
