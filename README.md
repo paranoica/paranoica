@@ -6,9 +6,7 @@
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin 18 Jahre alt. Geboren in Minsk und ich bin ein facettenreicher Entwickler.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-Developer, UI/UX Designer, Project Manager @ Neverlose
+> Full-stack web developer -> HTML, CSS, JS, PYTHON, PHP, CSS, JAVA, RUBY, SQL
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
