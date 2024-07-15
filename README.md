@@ -74,8 +74,7 @@
 ![Static Badge](https://img.shields.io/badge/Youtube-123?style=for-the-badge&logo=Youtube&color=%23E34F4F&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)<br/>
 
 ## 🔮 Projects
-![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34) \
-\
+![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34)
 [![wakatime](https://wakatime.com/badge/user/1bf0dcc1-e378-452a-a28c-17476cdb8b37.svg)](https://wakatime.com/@1bf0dcc1-e378-452a-a28c-17476cdb8b37)
 [![wakatime](https://wakatime.com/share/@paranoica/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)
 
