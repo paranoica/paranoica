@@ -11,7 +11,12 @@
   <dl>
     <dd>
       ❥ SSR, CSR, SSG, SPA<br/>
-      ❥ HTML5, CSS + frameworks, JS + frameworks<br/>
+      ❥ HTML5, CSS, JS & Typescript<br/>
+      ❥ Python<br/>
+      ❥ PHP<br/>
+      ❥ CSS<br/>
+      ❥ Ruby<br/>
+      ❥ SQL<br/>
     </dd>
   </dl>
 </details>
