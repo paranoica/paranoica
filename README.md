@@ -1,9 +1,13 @@
 # [~] paranoica
-- [RU] Добро пожаловать! Я - paranoica и мне 18 лет. Родился в Минске (🇧🇾) и являюсь многогранным разработчиком.
-- [BY] Вiтаю! Я – paranoica і мне 18 гадоў. Нарадзіўся ў Мінску (🇧🇾) і з'яўляюся шматгранным распрацоўшчыкам.
-- [EN] Welcome! I'm paranoica and I'm 18 years old. Born in Minsk (🇧🇾) and I'm a multifaceted developer.
 
-[DE] Willkommen! Ich heiße paranoica und ich bin 18 Jahre alt. Geboren in Minsk (🇧🇾) und ich bin ein facettenreicher Entwickler.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+- [RU] Добро пожаловать! Я - __paranoica__ и мне 18 лет. Родился в Минске (🇧🇾) и являюсь многогранным разработчиком.
+- [BY] Вiтаю! Я – __paranoica__ і мне 18 гадоў. Нарадзіўся ў Мінску (🇧🇾) і з'яўляюся шматгранным распрацоўшчыкам.
+- [EN] Welcome! I'm __paranoica__ and I'm 18 years old. Born in Minsk (🇧🇾) and I'm a multifaceted developer.
+
+[DE] Willkommen! Ich heiße __paranoica__ und ich bin 18 Jahre alt. Geboren in Minsk (🇧🇾) und ich bin ein facettenreicher Entwickler.
 
 Developer, UI/UX Designer, Project Manager @ Neverlose
 
