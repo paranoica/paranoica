@@ -8,14 +8,8 @@
 ## [~] skills
 <details>
   <summary>Full-stack web developer</summary>
-  <ul>
-      <li>SSR, CsdfsdfdfSR, SSG, SPA</li>
-  </ul>
   <dl>
-    <ul>
-      <li>SSR, CsdfsdfdfSR, SSG, SPA</li>
-    </ul>
-    <dd>• SSR, CSR, SSG, SPA</dd>
+    <dd>❥ SSR, CSR, SSG, SPA</dd>
   </dl>
 </details>
 
