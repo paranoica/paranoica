@@ -1,12 +1,13 @@
 # [~] paranoica
 
-[RU] Добро пожаловать! Я - __paranoica__ и мне 18 лет. Родился в Минске и являюсь многогранным разработчиком.<br/><br/>
-[BY] Вiтаю! Я – __paranoica__ і мне 18 гадоў. Нарадзіўся ў Мінску і з'яўляюся шматгранным распрацоўшчыкам.<br/><br/>
-[EN] Welcome! I'm __paranoica__ and I'm 18 years old. Born in Minsk and I'm a multifaceted developer.<br/><br/>
-[DE] Willkommen! Ich heiße __paranoica__ und ich bin 18 Jahre alt. Geboren in Minsk und ich bin ein facettenreicher Entwickler.
+[RU] Добро пожаловать! Я - __paranoica__ и мне __18__ лет. Родился в __Минске__ и являюсь многогранным __разработчиком__.<br/><br/>
+[BY] Вiтаю! Я – __paranoica__ і мне __18__ гадоў. Нарадзіўся ў __Мінску__ і з'яўляюся шматгранным __распрацоўшчыкам__.<br/><br/>
+[EN] Welcome! I'm __paranoica__ and I'm __18__ years old. Born in __Minsk__ and I'm a multifaceted __developer__.<br/><br/>
+[DE] Willkommen! Ich heiße __paranoica__ und ich bin __18__ Jahre alt. Geboren in __Minsk__ und ich bin ein facettenreicher __Entwickler__.
 
 > [!IMPORTANT]
-> Full-stack web developer -> HTML, CSS, JS, PYTHON, PHP, CSS, JAVA, RUBY, SQL
+> Full-stack web developer -> HTML CSS JS PYTHON PHP CSS JAVA RUBY SQL
+> C/C#/C++ GO 1C
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
