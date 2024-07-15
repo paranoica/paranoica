@@ -11,12 +11,14 @@
   <dl>
     <dd>
       ❥ SSR, CSR, SSG, SPA<br/>
-      ❥ HTML5, CSS, JS & Typescript<br/>
+      ❥ HTML5<br/>
+      ❥ JS (jQuery, React, Storybook, Vue, Pinia, Angular, Ember, Redux, etc.)<br/>
       ❥ Python (FastAPI, Flask, SQLAlchemy)<br/>
       ❥ PHP (Laravel, Composer)<br/>
       ❥ CSS (Bootstrap, W3.CSS, Sass, Less)<br/>
       ❥ SQL (mySQl, PostgreSQl)<br/>
       ❥ noSQL (MongoDB, Redis, Cassandra)<br/>
+      ❥ Typescript<br/>
       ❥ Ruby<br/>
     </dd>
   </dl>
