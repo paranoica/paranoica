@@ -7,7 +7,7 @@
 
 ## [~] skills
 <details>
-<summary>Full-stack web developer</summary>
+<summary>Full-stack Web Developer</summary>
 </details>
 
 ## 💬 Socials
