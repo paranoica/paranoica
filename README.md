@@ -70,6 +70,7 @@
 </details>
 
 ## [~] socials
+<a href="https://google.com">Stean</a>
 - [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
