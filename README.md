@@ -12,7 +12,7 @@
     <dd>
       ❥ SSR, CSR, SSG, SPA<br/>
       ❥ HTML5<br/>
-      ❥ JS (jQuery, React, Storybook, Vue, Pinia, Angular, Ember, Redux, etc.)<br/>
+      ❥ JS (jQuery, Node, React, Storybook, Vue, Pinia, Angular, Ember, Redux, etc.)<br/>
       ❥ Python (FastAPI, Flask, SQLAlchemy)<br/>
       ❥ PHP (Laravel, Composer)<br/>
       ❥ CSS (Bootstrap, W3.CSS, Sass, Less)<br/>
@@ -22,6 +22,7 @@
       ❥ Ruby<br/>
     </dd>
   </dl>
+  <summary>test</summary>
 </details>
 
 ## 💬 Socials
