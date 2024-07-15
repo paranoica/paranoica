@@ -70,8 +70,7 @@
 </details>
 
 ## [~] socials
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-- [Steam](https://steamcommunity.com/id/edgesubtle/)
+- ![Static Badge](https://img.shields.io/badge/Steam-123?logo=Steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fpermacrisis%2F)
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/onkOahh.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
