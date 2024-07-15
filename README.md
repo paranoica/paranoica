@@ -11,7 +11,7 @@
   <dl>
     <dd>
       ❥ SSR, CSR, SSG, SPA<br/>
-      ❥ HTML5, CSS (Bootstrap + W3.css), JS (jQuery + React + Vue + Angular + etc.)<br/>
+      ❥ HTML5, CSS + frameworks, JS + frameworks<br/>
     </dd>
   </dl>
 </details>
