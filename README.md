@@ -1,6 +1,6 @@
 # [~] paranoica
 
-> [!NOTE]
+> [!NOTEsdf]
 > Useful information that users should know, even when skimming content.
 
 - [RU] Добро пожаловать! Я - __paranoica__ и мне 18 лет. Родился в Минске (🇧🇾) и являюсь многогранным разработчиком.
