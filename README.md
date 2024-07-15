@@ -77,14 +77,3 @@
 ![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34)<br/>
 [![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)<br/>
 [![wakatime](https://wakatime.com/badge/user/1bf0dcc1-e378-452a-a28c-17476cdb8b37.svg)](https://wakatime.com/@1bf0dcc1-e378-452a-a28c-17476cdb8b37)
-
-#### Lua:
-- [tickount/voice-listener.lua](https://github.com/tickcount/voice-listener.lua), a cheat revealing library for neverlose cs:go.
-- [tickount/lagrecord-csgo.lua](https://github.com/tickcount/lagrecord-csgo.lua), a lagrecord poc library for neverlose cs:go.
-- [tickount/smoothy.lua](https://github.com/tickcount/smoothy.lua), a library to perform easing animations.
-- [gist@tickount/memory](https://gist.github.com/tickcount/1f15706f269150b1fa2b6046026f8ef5), an ffi function hooking library (soon to be available open-source)
-- [tickcount/.ssh](https://github.com/tickcount/.ssh), some of my pre-workshop lua scripts for gamesense.
-
-#### Misc:
-- [tickcount/hitsounds](https://github.com/tickcount/hitsounds), hit marker sounds
-- [tickcount/.p2c-icons](https://github.com/tickcount/.p2c-icons), an icon-set that was initially made for the Cheat Revealer.
