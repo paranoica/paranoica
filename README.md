@@ -1,5 +1,9 @@
-# Salvatore
-Welcome to my profile. I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+# paranoica
+
+[RU] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+[BY] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+[EN] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+[DE] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
 
 Developer, UI/UX Designer, Project Manager @ Neverlose
 
