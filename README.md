@@ -1,4 +1,4 @@
-# [~] paranoica
+![image](https://github.com/user-attachments/assets/38e06ccd-248d-4de4-bbfa-90cd8efc445e)# [~] paranoica
 
 [RU] Добро пожаловать! Я - __paranoica__ и мне __18__ лет. Родился в __Минске__ и являюсь многогранным __разработчиком__.<br/><br/>
 [BY] Вiтаю! Я – __paranoica__ і мне __18__ гадоў. Нарадзіўся ў __Мінску__ і з'яўляюся шматгранным __распрацоўшчыкам__.<br/><br/>
@@ -70,7 +70,7 @@
 </details>
 
 ## [~] socials
-<a href="https://google.com">Stean</a>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 - [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
