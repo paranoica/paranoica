@@ -8,7 +8,7 @@
 ## [~] skills
 <details>
   <summary>Full-stack web developer</summary>
-    <p>• SSR, CSR, SSG, SPA</p>
+          • SSR, CSR, SSG, SPA
     - sdfsdf
 </details>
 
