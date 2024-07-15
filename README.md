@@ -1,7 +1,6 @@
 # [~] paranoica
 
 [RU] Добро пожаловать! Я - __paranoica__ и мне __18__ лет. Родился в __Минске__ и являюсь многогранным __разработчиком__.<br/><br/>
-[BY] Вiтаю! Я – __paranoica__ і мне __18__ гадоў. Нарадзіўся ў __Мінску__ і з'яўляюся шматгранным __распрацоўшчыкам__.<br/><br/>
 [EN] Welcome! I'm __paranoica__ and I'm __18__ years old. Born in __Minsk__ and I'm a multifaceted __developer__.<br/><br/>
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin __18__ Jahre alt. Geboren in __Minsk__ und ich bin ein facettenreicher __Entwickler__.
 
