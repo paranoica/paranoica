@@ -17,7 +17,7 @@
       ❥ CSS<br/>
       ❥ Ruby<br/>
       ❥ SQL<br/>
-      [!NOTE]
+      > [!NOTE]
       > fsdfsdfsdf
     </dd>
   </dl>
