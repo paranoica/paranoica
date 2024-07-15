@@ -70,8 +70,8 @@
 </details>
 
 ## [~] socials
-- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam account](https://steamcommunity.com/id/edgesubtle/)
-- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
+- [Steam](https://steamcommunity.com/id/edgesubtle/)
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/onkOahh.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore](https://gamesense.pub/forums/profile.php?id=1349)
