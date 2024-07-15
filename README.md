@@ -1,6 +1,6 @@
 # [~] paranoica
-> [!NOTE]
-> sdfsdfsdf
+> [!IMPORTANT]
+> Hello!
 
 ## [~] skills
 <details>
