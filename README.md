@@ -1,4 +1,7 @@
 # [~] paranoica
+> [!NOTE]
+> sdfsdfsdf
+
 ## [~] skills
 <details>
   <summary>Full-stack web developer</summary>
