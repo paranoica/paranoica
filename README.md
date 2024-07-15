@@ -6,6 +6,7 @@
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin __18__ Jahre alt. Geboren in __Minsk__ und ich bin ein facettenreicher __Entwickler__.
 
 ## [~] Skills
+- [x] sdfsdfsdf #739
 
 ## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
