@@ -75,7 +75,7 @@
 
 ## [~] code stats
 ![counter](https://moe-counter.glitch.me/get/@paranoica?theme=rule34)<br/>
-[![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)
+[![wakatime](https://wakatime.com/share/@tickcount/82de59a8-7344-4342-b58c-2098dea096c0.svg)](https://wakatime.com/@paranoica)<br/>
 [![wakatime](https://wakatime.com/badge/user/1bf0dcc1-e378-452a-a28c-17476cdb8b37.svg)](https://wakatime.com/@1bf0dcc1-e378-452a-a28c-17476cdb8b37)
 
 #### Lua:
