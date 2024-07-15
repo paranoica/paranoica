@@ -1,5 +1,5 @@
 # [~] paranoica
-[RU] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
+[RU] Добро пожаловать, меня зовут Дмитрий, мне 18 лет. Я родился в Минске, Беларусь и готов представить вам свои проекты.
 
 [BY] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
 
@@ -10,7 +10,7 @@
 Developer, UI/UX Designer, Project Manager @ Neverlose
 
 ## 💬 Socials
-- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) _Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
+- ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/onkOahh.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
 - ![Gamesense Logo](https://gamesense.pub/favicon.ico) __Gamesense__ - [Salvatore](https://gamesense.pub/forums/profile.php?id=1349)
