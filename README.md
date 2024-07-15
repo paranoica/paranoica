@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38e06ccd-248d-4de4-bbfa-90cd8efc445e)# [~] paranoica
+# [~] paranoica
 
 [RU] Добро пожаловать! Я - __paranoica__ и мне __18__ лет. Родился в __Минске__ и являюсь многогранным __разработчиком__.<br/><br/>
 [BY] Вiтаю! Я – __paranoica__ і мне __18__ гадоў. Нарадзіўся ў __Мінску__ і з'яўляюся шматгранным __распрацоўшчыкам__.<br/><br/>
@@ -72,8 +72,7 @@
 ## [~] socials
 ![Static Badge](https://img.shields.io/badge/Steam-123?style=for-the-badge&logo=Steam&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fpermacrisis%2F)
 ![Static Badge](https://img.shields.io/badge/Youtube-123?style=for-the-badge&logo=Youtube&color=%23E34F4F&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)
-![Static Badge](https://img.shields.io/badge/TG-123?style=for-the-badge&logo=Telegram&color=%23FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)
-
+![Static Badge](https://img.shields.io/badge/TG-123?style=for-the-badge&logo=Telegram&color=%23CDCDCD&link=https%3A%2F%2Fwww.youtube.com%2F%40strexxter)
 
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) [Steam](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
