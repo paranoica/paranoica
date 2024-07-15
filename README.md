@@ -5,7 +5,9 @@
 [EN] Welcome! I'm __paranoica__ and I'm __18__ years old. Born in __Minsk__ and I'm a multifaceted __developer__.<br/><br/>
 [DE] Willkommen! Ich heiße __paranoica__ und ich bin __18__ Jahre alt. Geboren in __Minsk__ und ich bin ein facettenreicher __Entwickler__.
 
-### 💬 Socials
+## [~] Skills
+
+## 💬 Socials
 - ![Steam Logo](https://i.imgur.com/2XgiDt5.png) __Steam__ - [Salvatore](https://steamcommunity.com/id/edgesubtle/)
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __YouTube__ - [Salvatore](https://www.youtube.com/legenden)
 - ![Neverlose Logo](https://i.imgur.com/onkOahh.png) __Neverlose__ - [Salvatore](https://forum.neverlose.cc/u/salvatore)
