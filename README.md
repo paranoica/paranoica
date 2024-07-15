@@ -8,10 +8,8 @@
 ## [~] skills
 <details>
   <summary>Full-stack web developer</summary>
-  <dd>• SSR, CSR, SSG, SPA</dd>
   <dl>
-    <dd>Is something people use sometimes.</dd>
-    <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+    <dd>• SSR, CSR, SSG, SPA</dd>
   </dl>
 </details>
 
