@@ -1,6 +1,6 @@
 # [~] paranoica
 > [!IMPORTANT]
-> [EN] Welcome! My name is paranoica and I'm glad to present your projects to you!
+> Welcome! My name is paranoica and I'm glad to present your projects to you!
 
 ## [~] skills
 <details>
