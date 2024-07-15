@@ -38,8 +38,20 @@
   <summary>Script developer</summary>
   <dl>
     <dd>
-      ❥ Lua Senior<br/>
+      ❥ Lua<br/>
       ❥ Perl
+    </dd>
+  </dl>
+</details>
+<details>
+  <summary>Mobile developer</summary>
+  <dl>
+    <dd>
+      ❥ IOS<br/>
+        <dd>
+          ❥ IOS<br/>
+          ❥ Perl
+        </dd>
     </dd>
   </dl>
 </details>
