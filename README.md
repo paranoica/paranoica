@@ -1,5 +1,5 @@
 # [~] paranoica
-[RU] Добро пожаловать, меня зовут Дмитрий, мне 18 лет. Я родился в Минске, Беларусь и готов представить вам свои проекты.
+[RU] Добро пожаловать, я - paranoica, и мне 18 лет. Родом из Минска, Беларусь.
 
 [BY] I'm Salvatore, 21 years old (🇷🇺). I'm interested in graphic designing, programming, game hacking and windows kernel security development. I'm proficient in Lua, C/C++, ASM and ok-ish in PHP and JavaScript.
 
