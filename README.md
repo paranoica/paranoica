@@ -18,7 +18,7 @@
       ❥ Ruby<br/>
       ❥ SQL<br/>
       > [!NOTE]
-      > fsdfsdfsdf
+      > Useful information that users should know, even when skimming content.
     </dd>
   </dl>
 </details>
