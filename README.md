@@ -10,6 +10,7 @@
   <summary>Full-stack web developer</summary>
   <dl>
     <dd>❥ SSR, CSR, SSG, SPA</dd>
+    <dd>❥ SSR, CSR, SSG, SPA</dd>
   </dl>
 </details>
 
