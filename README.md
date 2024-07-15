@@ -9,7 +9,10 @@
 <details>
   <summary>Full-stack web developer</summary>
   <dl>
-    <dd>❥ SSR, CSR, SSG, SPA<br/>❥ SSR, CSR, SSG, SPA</dd>
+    <dd>
+      ❥ SSR, CSR, SSG, SPA<br/>
+      ❥ HTML5, CSS (Bootstrap + W3.css), JS (jQuery + React + Vue + Angular + etc.)<br/>
+    </dd>
   </dl>
 </details>
 
